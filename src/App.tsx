@@ -1,4 +1,5 @@
 import RootNavigator from "./navigation/RootNavigator";
+import "./index.css"
 
 const App = () => {
   return (
