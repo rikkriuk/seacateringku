@@ -1,9 +1,9 @@
-import React from "react";
+import RootNavigator from "./navigation/RootNavigator";
 
-function App() {
+const App = () => {
   return (
     <main>
-      <h1>Hello World!</h1>
+      <RootNavigator />
     </main>
   )
 }
