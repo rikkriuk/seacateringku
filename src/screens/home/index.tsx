@@ -1,6 +1,8 @@
 const HomePage = () => {
    return (
-      <h1>Home Page</h1>
+      <section className="bg-[#F4EFEF] min-h-screen">
+         <p className="font-xl">Hello World!</p>
+      </section>
    )
 }
 
